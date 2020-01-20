@@ -11,9 +11,21 @@
     "type": "git",
     "url": "git+https://github.com/smoozzy/eslint-config.git"
   },
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix .",
+    "test": "eslint --color --debug ."
+  },
+  "dependencies": {
+    "semver": "6.3.0"
+  },
   "devDependencies": {
+    "eslint": "5.16.0",
     "lint-staged": "8.2.0",
     "yorkie": "2.0.0"
+  },
+  "peerDependencies": {
+    "eslint": ">= 5.0.0"
   },
   "engines": {
     "node": ">= 10.13.0",
