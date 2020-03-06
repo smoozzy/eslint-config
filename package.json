@@ -1,7 +1,7 @@
 {
   "name": "@smoozzy/eslint-config",
   "description": "Shareable config for Smoozzy projects",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Smoozzy Code <smoozzy.code@gmail.com>",
   "license": "MIT",
   "bugs": {
@@ -17,11 +17,11 @@
     "test": "eslint --color --debug ."
   },
   "dependencies": {
-    "semver": "6.3.0"
+    "semver": "7.1.3"
   },
   "devDependencies": {
-    "eslint": "5.16.0",
-    "lint-staged": "8.2.0",
+    "eslint": "6.8.0",
+    "lint-staged": "10.0.8",
     "yorkie": "2.0.0"
   },
   "peerDependencies": {
