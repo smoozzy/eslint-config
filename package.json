@@ -25,7 +25,11 @@
     "yorkie": "2.0.0"
   },
   "peerDependencies": {
-    "eslint": ">= 5.0.0"
+    "eslint": ">= 5.0.0 < 7.0.0"
+  },
+  "optionalDependencies": {
+    "eslint-plugin-jest": "^23.0.0",
+    "eslint-plugin-jest-formatting": "^1.0.0"
   },
   "engines": {
     "node": ">= 10.13.0",

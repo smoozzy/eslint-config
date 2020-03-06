@@ -34,9 +34,11 @@ module.exports = {
 ```
 
 
-## Supported ESLint version
+## ESLint and Plugins
 
 * [ESLint](https://eslint.org/docs/rules/) (v5.0+)
+* [Jest Plugin](https://github.com/jest-community/eslint-plugin-jest) (v23.0+)
+* [Jest Formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) (v1.0+)
 
 
 ## Further Reading
