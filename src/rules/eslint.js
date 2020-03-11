@@ -346,7 +346,7 @@ const rules_5_0 = {
     'no-useless-rename': error,                   // disallow renaming import, export, and destructured assignments to the same name
     'no-var': error,                              // require `let` or `const` instead of `var`
     'object-shorthand': [error, 'properties'],    // require or disallow method and property shorthand syntax for object literals
-    'prefer-arrow-callback': warn,                // require arrow functions as callbacks
+    //   prefer-arrow-callback                    // require arrow functions as callbacks
     'prefer-const': error,                        // require `const` declarations for variables that are never reassigned after declared
     //   prefer-destructuring                     // require destructuring from arrays and/or objects
     'prefer-numeric-literals': error,             // disallow `parseInt()` in favor of binary, octal, and hexadecimal literals
