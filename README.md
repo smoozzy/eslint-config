@@ -39,6 +39,7 @@ module.exports = {
 * [ESLint](https://eslint.org/docs/rules/) (v5.0+)
 * [Jest](https://github.com/jest-community/eslint-plugin-jest) (v23.0+)
 * [Jest Formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) (v1.0+)
+* [Vue](https://github.com/vuejs/eslint-plugin-vue) (v5.0+)
 
 
 ### Jest plugin

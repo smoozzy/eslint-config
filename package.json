@@ -29,7 +29,8 @@
   },
   "optionalDependencies": {
     "eslint-plugin-jest": "^23.0.0",
-    "eslint-plugin-jest-formatting": "^1.0.0"
+    "eslint-plugin-jest-formatting": "^1.0.0",
+    "eslint-plugin-vue": "^6.0.0"
   },
   "engines": {
     "node": ">= 10.13.0",
