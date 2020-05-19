@@ -1,5 +1,3 @@
-'use strict';
-
 /* eslint-disable camelcase, max-len */
 
 /* Rules list

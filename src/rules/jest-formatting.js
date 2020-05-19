@@ -1,5 +1,3 @@
-'use strict';
-
 /* Rules list
  * https://github.com/dangreenisrael/eslint-plugin-jest-formatting
  */

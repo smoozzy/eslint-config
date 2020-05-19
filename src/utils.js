@@ -1,5 +1,3 @@
-'use strict';
-
 const isProduction = process.env.NODE_ENV === 'production';
 const isTesting = process.env.NODE_ENV === 'testing';
 
@@ -21,9 +19,9 @@ function getPackageVersion(packageName) {
 
 
 module.exports = {
-    error: 'error',
+    error: 'error',  // "✓" mark
     off: 'off',
-    warn: 'warn',
+    warn: 'warn',  // "⚑" mark
     isDevelopment: !isProduction && !isTesting,
     isProduction,
     isTesting,

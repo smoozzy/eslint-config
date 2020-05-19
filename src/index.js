@@ -1,5 +1,3 @@
-'use strict';
-
 const semver = require('semver');
 const meta = require('../package.json');
 const {getPackageVersion} = require('./utils');
