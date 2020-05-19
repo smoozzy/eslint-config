@@ -37,8 +37,25 @@ module.exports = {
 ## ESLint and Plugins
 
 * [ESLint](https://eslint.org/docs/rules/) (v5.0+)
-* [Jest Plugin](https://github.com/jest-community/eslint-plugin-jest) (v23.0+)
+* [Jest](https://github.com/jest-community/eslint-plugin-jest) (v23.0+)
 * [Jest Formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) (v1.0+)
+
+
+### Jest plugin
+
+You can add Jest version explicitly to config file or the config tries to detect Jest version automatically
+
+```javascript
+module.exports = {
+    // ...
+
+    settings: {
+        jest: {
+            version: 26,  
+        },
+    },
+};
+```
 
 
 ## Further Reading
