@@ -65,10 +65,11 @@ __ECMAScript features sets__
 
 * [Speaking JavaScript](http://speakingjs.com/es5/) by Axel Rauschmayer (ES5)
 * [Exploring ES6](https://exploringjs.com/es6/) by Axel Rauschmayer (ES6)
-* [The final feature set of ECMAScript 2016](https://2ality.com/2016/01/ecmascript-2016.html) (ES7)
+* [ECMAScript 2016: the final feature set](https://2ality.com/2016/01/ecmascript-2016.html) (ES7)
 * [ECMAScript 2017: the final feature set](https://2ality.com/2016/02/ecmascript-2017.html)
 * [ECMAScript 2018: the final feature set](https://2ality.com/2017/02/ecmascript-2018.html)
 * [ECMAScript 2019: the final feature set](https://2ality.com/2018/02/ecmascript-2019.html)
+* [ECMAScript 2020: the final feature set](https://2ality.com/2019/12/ecmascript-2020.html)
 
 __ESLint__
 

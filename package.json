@@ -1,7 +1,7 @@
 {
   "name": "@smoozzy/eslint-config",
   "description": "Shareable config for Smoozzy projects",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "author": "Smoozzy Code <smoozzy.code@gmail.com>",
   "license": "MIT",
   "bugs": {
